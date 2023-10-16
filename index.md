@@ -3,10 +3,10 @@ layout: cv
 title: Jie Li's CV
 ---
 # Jie Li
-PhD. Candidate in Computer Science, Texas Tech University.
+Ph.D. Candidate in Computer Science, Texas Tech University.
 
 <div id="webaddress">
-<a href="jie.li@ttu.edu">Email: jie[dot]li[at]ttu[dot].edu</a>
+<a href="jie.li@ttu.edu">Email: jie[dot]li[at]ttu[dot]edu</a>
 </div>
 
 
