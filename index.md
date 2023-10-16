@@ -1,91 +1,54 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Jie Li's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Jie Li
+PhD. Candidate in Computer Science, Texas Tech University.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="jie.li@ttu.edu">Email: jie[dot]li[at]ttu[dot].edu</a>
 </div>
 
 
-## Currently
+## RESEARCH INTERESTS
 
-Standing on the shoulders of giants
+My research interests lie in the field of High-Performance Computing (HPC), encompassing HPC systems monitoring, automation, and management, operational data analytics, job scheduling, and system architecture. I also have a keen interest in parallel and distributed computing and computer architecture.
+## EDUCATION
 
-### Specialized in
+`Expected May 2024`
+__Ph.D., Computer Science__, Texas Tech University, Lubbock, Texas
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
-
-## Education
-
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
+`2019`
+M.S., Computer Science, Texas Tech University, Lubbock, Texas
 
 `2012`
-President, *Royal Society*, London, UK
+B.Arch., Architecture, Huaqiao University, Xiamen, China
 
-Associate, *French Academy of Science*, Paris, France
 
+## PROFESSIONAL EXPERIENCE
+
+`2019-present`
+*Research Assistant*, Data-Intensive Scalable Computing Laboratory (DISCL), TTU, Lubbock, Texas
+- __Research and Publication__: Conducted innovative research in High-Performance Computing, Computer Architecture, and Parallel and Distributed Computing. Authored and published research papers in reputable academic conferences and journals.
+- __Professional Development and Networking__: Actively engaged in the academic community by attending conferences, workshops, and seminars. Presented research papers and posters at these events.
+- __Mentorship and Education__: Mentored both graduate and undergraduate students in their independent research studies. Provided guidance on research topics, project development, and data analysis.
+- __Software Development and Collaboration__: Played an integral role in developing and maintaining research software and tools. Wrote, tested, and documented code for various projects. Contributed to open-source software initiatives, fostering collaborative innovation.
+- __Server Administration__: Managed two high-end servers (Hugo and Alita) hosted at the High-Performance Computing Center. Oversaw server configuration, maintenance, and software management. Ensured consistent server availability and reliability while troubleshooting issues as they arose.
+
+`2021, 2022, 2023`
+*Graduate Student Intern*, Lawrence Berkeley National Laboratory (LBNL), Berkeley, California
+
+`2018-2019`
+*Graduate Student Programmer*, Teaching, Learning and Professional Development Center (TLPDC),TTU, Lubbock, Texas
 
 
 ## Publications
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+A list is also available [online](https://scholar.google.com/citations?user=G7oDoOcAAAAJ&hl=en)
 
 
-## Occupation
+### Footer
 
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
+Last updated: Oct. 2023
 
 
