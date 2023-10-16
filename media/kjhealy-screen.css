@@ -106,6 +106,7 @@ li {
 }
 
 li ul ::marker{
+  content: "-";
 	position: relative;
 	left: 0;
 	width: 100%;
