@@ -75,100 +75,109 @@ My research interests lie in the field of High-Performance Computing (HPC), enco
 
 ## PUBLICATIONS
 
-<div id="refs" class="references csl-bib-body hanging-indent"
-role="doc-bibliography">
-<div id="ref-caon2023effective" class="csl-entry"
-role="doc-biblioentry">
-Caon, Cristiano E., Jie Li, and Yong Chen. 2023. <span>“Effective
-Management of Time Series Data.”</span> In <em>2023 IEEE 16th
-International Conference on Cloud Computing
-(<strong>CLOUD’23</strong>)</em>, 408–14. <a 
-href="https://doi.org/10.1109/CLOUD60044.2023.00055">https://doi.org/10.1109/CLOUD60044.2023.00055</a>.
-</div>
-<div id="ref-dang2022jobviewer" class="csl-entry"
-role="doc-biblioentry">
-Dang, Tommy, Ngan VT Nguyen, Jie Li, Alan Sill, Jon Hass, and Yong Chen.
-2022. <span>“JobViewer: Graph-Based Visualization for Monitoring
-High-Performance Computing System.”</span> In <em>2022 IEEE/ACM
-International Conference on Big Data Computing, Applications and
-Technologies (<strong>BDCAT’22</strong>)</em>, 110–19. IEEE.
-<a 
-href="https://doi.org/10.1109/BDCAT56447.2022.00021">https://doi.org/10.1109/BDCAT56447.2022.00021</a>.
-</div>
-<div id="ref-dang2021gap" class="csl-entry" role="doc-biblioentry">
-Dang, Tommy, Ngan Nguyen, Jon Hass, Jie Li, Yong Chen, and Alan Sill.
-2021. <span>“The Gap Between Visualization Research and Visualization
-Software in High-Performance Computing Center.”</span> <em>The Gap
-Between Visualization Research and Visualization Software
-(<strong>VisGap’21)</strong>)</em>. <a 
-href="https://doi.org/10.2312/visgap.20211089">https://doi.org/10.2312/visgap.20211089</a>.
-</div>
-<div id="ref-li2020monster" class="csl-entry" role="doc-biblioentry">
-Li, Jie, Ghazanfar Ali, Ngan Nguyen, Jon Hass, Alan Sill, Tommy Dang,
-and Yong Chen. 2020. <span>“Monster: An Out-of-the-Box Monitoring Tool
-for High Performance Computing Systems.”</span> In <em>2020 IEEE
-International Conference on Cluster Computing
-(<strong>CLUSTER’20</strong>)</em>, 119–29. IEEE. <a 
-href="https://doi.org/10.1109/CLUSTER49012.2020.00022">https://doi.org/10.1109/CLUSTER49012.2020.00022</a>.
-</div>
-<div id="ref-li2023arcode" class="csl-entry" role="doc-biblioentry">
-Li, Jie, Brandon Cook, and Yong Chen. 2023. <span>“ARcode: HPC
-Application Recognition Through Image-Encoded Monitoring Data.”</span>
-<em>arXiv Preprint arXiv:2301.08612</em>. <a 
-href="https://doi.org/10.48550/arXiv.2301.08612">https://doi.org/10.48550/arXiv.2301.08612</a>.
-</div>
-<div id="ref-li2023analyzing" class="csl-entry" role="doc-biblioentry">
-Li, Jie, George Michelogiannakis, Brandon Cook, Dulanya Cooray, and Yong
-Chen. 2023. <span>“Analyzing Resource Utilization in an HPC System: A
-Case Study of NERSC’s Perlmutter.”</span> In <em>International
-Conference on High Performance Computing (<strong>ISC’23</strong>)</em>,
-297–316. Springer. <a 
-href="https://doi.org/10.1007/978-3-031-32041-5_16">https://doi.org/10.1007/978-3-031-32041-5_16</a>.
-</div>
-<div id="ref-li2023workload" class="csl-entry" role="doc-biblioentry">
-Li, Jie, Rui Wang, Ghazanfar Ali, Tommy Dang, Alan Sill, and Yong Chen.
-2023. <span>“Workload Failure Prediction for Data Centers.”</span> In
-<em>2023 IEEE 16th International Conference on Cloud Computing
-(<strong>CLOUD’23</strong>)</em>, 479–85. <a 
-href="https://doi.org/10.1109/CLOUD60044.2023.00064">https://doi.org/10.1109/CLOUD60044.2023.00064</a>.
+<div id="refs" class="references csl-bib-body" role="doc-bibliography">
+<div id="ref-wang2019mac" class="csl-entry" role="doc-biblioentry">
+<div class="csl-left-margin">[1] </div><div class="csl-right-inline">X.
+Wang, A. Tumeo, J. D. Leidel, J. Li, and Y. Chen, <span>“MAC: Memory
+access coalescer for 3D-stacked memory,”</span> in <em>Proceedings of
+the 48th international conference on parallel processing
+(<strong>ICPP’19</strong>)</em>, 2019, pp. 1–10. doi: <a
+href="https://doi.org/10.1145/3337821.3337867">https://doi.org/10.1145/3337821.3337867</a>.</div>
 </div>
 <div id="ref-li2019pims" class="csl-entry" role="doc-biblioentry">
-Li, Jie, Xi Wang, Antonino Tumeo, Brody Williams, John D Leidel, and
-Yong Chen. 2019. <span>“PIMS: A Lightweight Processing-in-Memory
-Accelerator for Stencil Computations.”</span> In <em>Proceedings of the
-International Symposium on Memory Systems
-(<strong>MemSys’19</strong>)</em>, 41–52. <a 
-href="https://doi.org/10.1145/3357526.3357550">https://doi.org/10.1145/3357526.3357550</a>.
+<div class="csl-left-margin">[2] </div><div class="csl-right-inline">J.
+Li, X. Wang, A. Tumeo, B. Williams, J. D. Leidel, and Y. Chen,
+<span>“PIMS: A lightweight processing-in-memory accelerator for stencil
+computations,”</span> in <em>Proceedings of the international symposium
+on memory systems (<strong>MemSys’19</strong>)</em>, 2019, pp. 41–52.
+doi: <a
+href="https://doi.org/10.1145/3357526.3357550">https://doi.org/10.1145/3357526.3357550</a>.</div>
+</div>
+<div id="ref-pham2019mtsad" class="csl-entry" role="doc-biblioentry">
+<div class="csl-left-margin">[3] </div><div class="csl-right-inline">V.
+Pham, N. Nguyen, J. Li, J. Hass, Y. Chen, and T. Dang, <span>“Mtsad:
+Multivariate time series abnormality detection and
+visualization,”</span> in <em>2019 IEEE international conference on big
+data (<strong>BigData’19</strong>)</em>, IEEE, 2019, pp. 3267–3276. doi:
+<a
+href="https://doi.org/10.1109/BigData47090.2019.9006559">https://doi.org/10.1109/BigData47090.2019.9006559</a>.</div>
 </div>
 <div id="ref-nguyen2020radarviewer" class="csl-entry"
 role="doc-biblioentry">
-Nguyen, Ngan, Jon Hass, Yong Chen, Jie Li, Alan Sill, and Tommy Dang.
-2020. <span>“Radarviewer: Visualizing the Dynamics of Multivariate
-Data.”</span> In <em>Practice and Experience in Advanced Research
-Computing (<strong>PEARC’20</strong>)</em>, 555–56. <a 
-href="https://doi.org/10.1145/3311790.3404538">https://doi.org/10.1145/3311790.3404538</a>.
+<div class="csl-left-margin">[4] </div><div class="csl-right-inline">N.
+Nguyen, J. Hass, Y. Chen, J. Li, A. Sill, and T. Dang,
+<span>“Radarviewer: Visualizing the dynamics of multivariate
+data,”</span> in <em>Practice and experience in advanced research
+computing (<strong>PEARC’20</strong>)</em>, 2020, pp. 555–556. doi: <a
+href="https://doi.org/10.1145/3311790.3404538">https://doi.org/10.1145/3311790.3404538</a>.</div>
 </div>
-<div id="ref-pham2019mtsad" class="csl-entry" role="doc-biblioentry">
-Pham, Vung, Ngan Nguyen, Jie Li, Jon Hass, Yong Chen, and Tommy Dang.
-2019. <span>“Mtsad: Multivariate Time Series Abnormality Detection and
-Visualization.”</span> In <em>2019 IEEE International Conference on Big
-Data (<strong>BigData’19</strong>)</em>, 3267–76. IEEE.
-<a 
-href="https://doi.org/10.1109/BigData47090.2019.9006559">https://doi.org/10.1109/BigData47090.2019.9006559</a>.
-</div>
-<div id="ref-wang2019mac" class="csl-entry" role="doc-biblioentry">
-Wang, Xi, Antonino Tumeo, John D Leidel, Jie Li, and Yong Chen. 2019.
-<span>“MAC: Memory Access Coalescer for 3D-Stacked Memory.”</span> In
-<em>Proceedings of the 48th International Conference on Parallel
-Processing (<strong>ICPP’19</strong>)</em>, 1–10. <a 
-href="https://doi.org/10.1145/3337821.3337867">https://doi.org/10.1145/3337821.3337867</a>.
+<div id="ref-li2020monster" class="csl-entry" role="doc-biblioentry">
+<div class="csl-left-margin">[5] </div><div class="csl-right-inline">J.
+Li <em>et al.</em>, <span>“Monster: An out-of-the-box monitoring tool
+for high performance computing systems,”</span> in <em>2020 IEEE
+international conference on cluster computing
+(<strong>CLUSTER’20</strong>)</em>, IEEE, 2020, pp. 119–129. doi: <a
+href="https://doi.org/10.1109/CLUSTER49012.2020.00022">https://doi.org/10.1109/CLUSTER49012.2020.00022</a>.</div>
 </div>
 <div id="ref-wang2021ham" class="csl-entry" role="doc-biblioentry">
-Wang, Xi, Antonino Tumeo, John D Leidel, Jie Li, and Yong Chen. 2021. <span>“HAM: Hotspot-Aware Manager for Improving
-Communications with 3D-Stacked Memory.”</span> <em>IEEE Transactions on
-Computers (<strong>IEEE Trans Comput</strong>)</em> 70 (6): 833–48.
-<a 
-href="https://doi.org/10.1109/TC.2021.3066982">https://doi.org/10.1109/TC.2021.3066982</a>.
+<div class="csl-left-margin">[6] </div><div class="csl-right-inline">X.
+Wang, A. Tumeo, J. D. Leidel, J. Li, and Y. Chen, <span>“HAM:
+Hotspot-aware manager for improving communications with 3D-stacked
+memory,”</span> <em>IEEE Transactions on Computers (<strong>IEEE Trans
+Comput</strong>)</em>, vol. 70, no. 6, pp. 833–848, 2021, doi: <a
+href="https://doi.org/10.1109/TC.2021.3066982">https://doi.org/10.1109/TC.2021.3066982</a>.</div>
+</div>
+<div id="ref-dang2021gap" class="csl-entry" role="doc-biblioentry">
+<div class="csl-left-margin">[7] </div><div class="csl-right-inline">T.
+Dang, N. Nguyen, J. Hass, J. Li, Y. Chen, and A. Sill, <span>“The gap
+between visualization research and visualization software in
+high-performance computing center,”</span> <em>The Gap between
+Visualization Research and Visualization Software
+(<strong>VisGap’21)</strong>)</em>, 2021, doi: <a
+href="https://doi.org/10.2312/visgap.20211089">https://doi.org/10.2312/visgap.20211089</a>.</div>
+</div>
+<div id="ref-dang2022jobviewer" class="csl-entry"
+role="doc-biblioentry">
+<div class="csl-left-margin">[8] </div><div class="csl-right-inline">T.
+Dang, N. V. Nguyen, J. Li, A. Sill, J. Hass, and Y. Chen,
+<span>“JobViewer: Graph-based visualization for monitoring
+high-performance computing system,”</span> in <em>2022 IEEE/ACM
+international conference on big data computing, applications and
+technologies (<strong>BDCAT’22</strong>)</em>, IEEE, 2022, pp. 110–119.
+doi: <a
+href="https://doi.org/10.1109/BDCAT56447.2022.00021">https://doi.org/10.1109/BDCAT56447.2022.00021</a>.</div>
+</div>
+<div id="ref-li2023arcode" class="csl-entry" role="doc-biblioentry">
+<div class="csl-left-margin">[9] </div><div class="csl-right-inline">J.
+Li, B. Cook, and Y. Chen, <span>“ARcode: HPC application recognition
+through image-encoded monitoring data,”</span> <em>arXiv preprint
+arXiv:2301.08612</em>, 2023, doi: <a
+href="https://doi.org/10.48550/arXiv.2301.08612">https://doi.org/10.48550/arXiv.2301.08612</a>.</div>
+</div>
+<div id="ref-li2023analyzing" class="csl-entry" role="doc-biblioentry">
+<div class="csl-left-margin">[10] </div><div class="csl-right-inline">J.
+Li, G. Michelogiannakis, B. Cook, D. Cooray, and Y. Chen,
+<span>“Analyzing resource utilization in an HPC system: A case study of
+NERSC’s perlmutter,”</span> in <em>International conference on high
+performance computing (<strong>ISC’23</strong>)</em>, Springer, 2023,
+pp. 297–316. doi: <a
+href="https://doi.org/10.1007/978-3-031-32041-5_16">https://doi.org/10.1007/978-3-031-32041-5_16</a>.</div>
+</div>
+<div id="ref-li2023workload" class="csl-entry" role="doc-biblioentry">
+<div class="csl-left-margin">[11] </div><div class="csl-right-inline">J.
+Li, R. Wang, G. Ali, T. Dang, A. Sill, and Y. Chen, <span>“Workload
+failure prediction for data centers,”</span> in <em>2023 IEEE 16th
+international conference on cloud computing
+(<strong>CLOUD’23</strong>)</em>, 2023, pp. 479–485. doi: <a
+href="https://doi.org/10.1109/CLOUD60044.2023.00064">https://doi.org/10.1109/CLOUD60044.2023.00064</a>.</div>
+</div>
+<div id="ref-caon2023effective" class="csl-entry"
+role="doc-biblioentry">
+<div class="csl-left-margin">[12] </div><div class="csl-right-inline">C.
+E. Caon, J. Li, and Y. Chen, <span>“Effective management of time series
+data,”</span> in <em>2023 IEEE 16th international conference on cloud
+computing (<strong>CLOUD’23</strong>)</em>, 2023, pp. 408–414. doi: <a
+href="https://doi.org/10.1109/CLOUD60044.2023.00055">https://doi.org/10.1109/CLOUD60044.2023.00055</a>.</div>
 </div>
 </div>
 
@@ -195,6 +204,38 @@ href="https://doi.org/10.1109/TC.2021.3066982">https://doi.org/10.1109/TC.2021.3
 - Collecting and Storing Telemetry Metrics from RedRaider Cluster <time> Apr. 2020 </time>
 - Profiling Power Consumption of Jobs with SLURM <time> Jan. 2020 </time>
 - Monitoring Power Usage of Jobs Running on Quanah Cluster <time> Sept. 2019 </time>
+
+
+## MENTORING EXPERIENCE
+
+### Undergraduate Students (including REU participants)
+- Mentoring Yusheng Han and Zachary Kay on the topic “Running HPC Applications on the RedRaider Cluster and Analyzing Performance Behaviors”. Independent Study (CS4000) <time>Spring 2022</time>
+- Mentoring Casey Root on the topic “Monitoring Queue Status via SLURM Rest API”. Independent Study (CS4000) <time>Spring 2021</time>
+
+### Graduate Students
+- Mentoring Cristiano Caon on the topic “Investigating the Data Volume Reduction and Query Optimization in Time Series Databases”. Outcomes include a conference publication in CLOUD’23. Independent Study (CS7000) and Master’s Thesis <time>Fall 2022</time>
+- Mentoring Aniruddh Sanjaysinh Chavda and Huyen Nguyen on the topic “Usage Behavior Analysis with Clustering Job Accounting Data”. Advanced Operating System (CS5379) <time>Spring 2021</time>
+- Mentoring Ruonan Wu on the topic “Job Accounting Data Analysis for Quanah Cluster ”. Advanced Operating System (CS5379) <time>Spring 2021</time>
+- Mentoring Ashritha Puradamane Balachandra on the topic “Improving Query Performance of InfluxDB”. Advanced Operating System (CS5379) <time>Spring 2020</time>
+
+### SERVICES
+
+### Paper Reviewer
+- The Journal of Supercomputing
+- IEEE International Parallel and Distributed Processing Symposium (IPDPS’23)
+- IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing (CCGrid’22)
+- IEEE International Conference on Distributed Computing Systems (ICDCS’22)
+- The International Conference for High-Performance Computing, Networking, Storage, and Analysis (SC’22)
+- International Parallel Data Systems Workshop (PDSW’22)
+- IEEE International Conference on Big Data (BigData’20, BigData’21, BigData’22)
+- IEEE International Conference on Smart Data Services (SDMS’20)
+
+
+### Volunteer
+- Student volunteer of SC’21, <location>St. Louis, Missouri</location> <time> 2021 </time>
+- Student volunteer of SC’19, <location>Denver, Colorado</location>  <time> 2019 </time>
+- Volunteer of Paul’s Project, <location>Grace Campus, Lubbock, Texas</location>  <time>2019 </time>
+
 
 <span class="info" style="color: gray; font-size: 0.8rem;">Last Update: October 17, 2023</span>
 <!-- Detail checks: 1. No period for each bullet; 2. Past tense for previous work; 3. Present tense for current work; 4. Spell check passed; 5. Grammarly check passed; 6. Sync with Linkedin; 7. Check paper format -->
