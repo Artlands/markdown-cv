@@ -2,16 +2,10 @@
 layout: cv
 title: Jie Li's CV
 ---
-<!-- # Jie Li
-Ph.D. Candidate in Computer Science, Texas Tech University. -->
-
-<span class="name">Jie Li</span>
-
-<span class="info">
+# Jie Li
+Ph.D. Candidate in Computer Science, Texas Tech University.
 
 <a href="jie.li@ttu.edu">Email: jie[dot]li[at]ttu[dot]edu</a>
-
-</span>
 
 ## RESEARCH INTERESTS
 
@@ -42,7 +36,7 @@ My research interests lie in the field of High-Performance Computing (HPC), enco
 - Mentorship and Education: Mentored both graduate and undergraduate students in their independent research studies. Provided guidance on research topics, project development, and data analysis.
 - Software Development and Collaboration: Played an integral role in developing and maintaining research software and tools. Wrote, tested, and documented code for various projects. Contributed to open-source software initiatives, fostering collaborative innovation.
 - Server Administration: Managed two high-end servers (Hugo and Alita) hosted at the High-Performance Computing Center. Oversaw server configuration, maintenance, and software management. Ensured consistent server availability and reliability while troubleshooting issues as they arose.
-- 
+
 ### Graduate Student Intern <time> 2021-2023 [Summer] </time>
 
 <location> Lawrence Berkeley National Laboratory (LBNL), Berkeley, California </location>
