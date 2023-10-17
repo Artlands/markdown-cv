@@ -106,6 +106,7 @@ field {
   text-align: center;
 }
 
-.csl-left-margin {
-  white-space:nowrap;
+div.csl-left-margin {
+  display: flex;
+  flex-wrap: nowrap; /* this is default */
 }
