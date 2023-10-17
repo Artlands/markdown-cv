@@ -70,7 +70,7 @@ My research interests lie in the field of High-Performance Computing (HPC), enco
 
 - Investigated and identified performance bottlenecks in InfluxDB. Optimized the database schema design, resulting in a remarkable 71.98% reduction in data volume and a significant 1.76X boost in query performance, enhancing data management efficiency.
 - Designed and implemented a time series deduplication mechanism. It achieved an impressive average data volume reduction of 70.38% and maintained data accuracy with a minimal error of only 0.74% in reconstruction.
-- Designed and developed MetricsBuilder, a data access accelerator. MetricsBuilder dramatically improved query performance by up to f25X and reduced data transmission volume by 95% compared to traditional SQL queries, streamlining data retrieval.
+- Designed and developed MetricsBuilder, a data access accelerator. MetricsBuilder dramatically improved query performance by up to 25X and reduced data transmission volume by 95% compared to traditional SQL queries, streamlining data retrieval.
 - Implemented an API using the OpenAPI specification. The API provided efficient data access services to data analysis consumers, including JavaScript data visualization applications and Grafana, ensuring seamless access to valuable insights.
 
 ## PUBLICATIONS
