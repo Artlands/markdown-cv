@@ -107,5 +107,5 @@ field {
 }
 
 .csl-left-margin {
-  display: inline;
+  white-space:nowrap;
 }

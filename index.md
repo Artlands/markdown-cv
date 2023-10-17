@@ -209,16 +209,16 @@ href="https://doi.org/10.1109/CLOUD60044.2023.00055">https://doi.org/10.1109/CLO
 ## MENTORING EXPERIENCE
 
 ### Undergraduate Students (including REU participants)
-- Mentoring Yusheng Han and Zachary Kay on the topic “Running HPC Applications on the RedRaider Cluster and Analyzing Performance Behaviors”. Independent Study (CS4000) <time>Spring 2022</time>
-- Mentoring Casey Root on the topic “Monitoring Queue Status via SLURM Rest API”. Independent Study (CS4000) <time>Spring 2021</time>
+- Mentoring Yusheng Han and Zachary Kay on the topic “Running HPC Applications on the RedRaider Cluster and Analyzing Performance Behaviors”. <location>Independent Study (CS4000)</location> <time>Spring 2022</time>
+- Mentoring Casey Root on the topic “Monitoring Queue Status via SLURM Rest API”. <location>Independent Study (CS4000)</location> <time>Spring 2021</time>
 
 ### Graduate Students
-- Mentoring Cristiano Caon on the topic “Investigating the Data Volume Reduction and Query Optimization in Time Series Databases”. Outcomes include a conference publication in CLOUD’23. Independent Study (CS7000) and Master’s Thesis <time>Fall 2022</time>
-- Mentoring Aniruddh Sanjaysinh Chavda and Huyen Nguyen on the topic “Usage Behavior Analysis with Clustering Job Accounting Data”. Advanced Operating System (CS5379) <time>Spring 2021</time>
-- Mentoring Ruonan Wu on the topic “Job Accounting Data Analysis for Quanah Cluster ”. Advanced Operating System (CS5379) <time>Spring 2021</time>
-- Mentoring Ashritha Puradamane Balachandra on the topic “Improving Query Performance of InfluxDB”. Advanced Operating System (CS5379) <time>Spring 2020</time>
+- Mentoring Cristiano Caon on the topic “Investigating the Data Volume Reduction and Query Optimization in Time Series Databases”. Outcomes include a conference publication in CLOUD’23. <location>Independent Study (CS7000) and Master’s Thesis</location> <time>Fall 2022</time>
+- Mentoring Aniruddh Sanjaysinh Chavda and Huyen Nguyen on the topic “Usage Behavior Analysis with Clustering Job Accounting Data”. <location>Advanced Operating System (CS5379)</location> <time>Spring 2021</time>
+- Mentoring Ruonan Wu on the topic “Job Accounting Data Analysis for Quanah Cluster ”. <location>Advanced Operating System (CS5379)</location> <time>Spring 2021</time>
+- Mentoring Ashritha Puradamane Balachandra on the topic “Improving Query Performance of InfluxDB”. <location>Advanced Operating System (CS5379)</location> <time>Spring 2020</time>
 
-### SERVICES
+## SERVICES
 
 ### Paper Reviewer
 - The Journal of Supercomputing
