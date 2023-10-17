@@ -5,11 +5,13 @@ title: Jie Li's CV
 # Jie Li
 Ph.D. Candidate in Computer Science, Texas Tech University.
 
-<span class="info">
+<div id="webaddress">
+<a href="jie.li@ttu.edu">Email: jie[dot]li[at]ttu[dot]edu</a>
+</div>
 
-[![Mail](https://simpleicons.org/icons/minutemailer.svg) jie[dot]li[at]ttu[dot]edu](mailto:jie.li@ttu.edu)
+## RESEARCH INTERESTS
 
-</span>
+My research interests lie in the field of High-Performance Computing (HPC), encompassing HPC systems monitoring, automation, and management, operational data analytics, job scheduling, and system architecture. I also have a keen interest in parallel and distributed computing and computer architecture.
 
 ## Education
 
