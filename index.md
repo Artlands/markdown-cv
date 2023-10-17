@@ -2,28 +2,30 @@
 layout: cv
 title: Jie Li's CV
 ---
-# Jie Li
+<!-- # Jie Li
 Ph.D. Candidate in Computer Science, Texas Tech University.
 
-<a href="jie.li@ttu.edu">Email: jie[dot]li[at]ttu[dot]edu</a>
+<a href="jie.li@ttu.edu">Email: jie[dot]li[at]ttu[dot]edu</a> -->
+
+<span class="name">Jie Li</span>
+
+<span class="info">Ph.D. Candidate in Computer Science, Texas Tech University.</span>
+
+<span class="info">[Email: jie[dot]li[at]ttu[dot]edu](mailto:jie.li@ttu.edu)</span>
+
 
 ## RESEARCH INTERESTS
 
 My research interests lie in the field of High-Performance Computing (HPC), encompassing HPC systems monitoring, automation, and management, operational data analytics, job scheduling, and system architecture. I also have a keen interest in parallel and distributed computing and computer architecture.
 
-## Education
+## EDUCATION
 
-### Texas Tech University | <location> Lubbock, Texas </location> <time> Expected May 2024 </time>
+- ### Ph.D. <field> Computer Science </field> <location> Texas Tech University, Lubbock, Texas </location> <time> Expected May 2024 </time>
 
-- Ph.D. in Computer Science
+- ### M.S. <field> Computer Science </field> <location> Texas Tech University, Lubbock, Texas </location> <time> 2019 </time>
 
-### Texas Tech University | <location> Lubbock, Texas </location> <time> 2019 </time>
+- ### B.Arch. <field> Architecture </field> <location> Huaqiao University, Xiamen, China </location> <time> 2012 </time>
 
-- M.S. in Computer Science
-
-### Huaqiao University | <location> Xiamen, China </location> <time> 2012 </time>
-
-- B.Arch. in Architecture
 
 ## PROFESSIONAL EXPERIENCE
 
@@ -37,7 +39,7 @@ My research interests lie in the field of High-Performance Computing (HPC), enco
 - Software Development and Collaboration: Played an integral role in developing and maintaining research software and tools. Wrote, tested, and documented code for various projects. Contributed to open-source software initiatives, fostering collaborative innovation.
 - Server Administration: Managed two high-end servers (Hugo and Alita) hosted at the High-Performance Computing Center. Oversaw server configuration, maintenance, and software management. Ensured consistent server availability and reliability while troubleshooting issues as they arose.
 
-### Graduate Student Intern <time> 2021-2023 [Summer] </time>
+### Graduate Student Intern <time> 2021 – 2023 [Summer] </time>
 
 <location> Lawrence Berkeley National Laboratory (LBNL), Berkeley, California </location>
 
@@ -64,12 +66,12 @@ My research interests lie in the field of High-Performance Computing (HPC), enco
 - The Slurm data collection code has been adopted and merged into Dell's Omnia project for broader industry utilization (Github link: [Omnia](https://github.com/dell/omnia)).
 
 
-### MonitoringD ata Management and Query Performance Optimization <time> 2020 </time>
+### Monitoring Data Management and Query Performance Optimization <time> 2020 </time>
 
 - Investigated and identified performance bottlenecks in InfluxDB. Optimized the database schema design, resulting in a remarkable 71.98% reduction in data volume and a significant 1.76X boost in query performance, enhancing data management efficiency.
 - Designed and implemented a time series deduplication mechanism. It achieved an impressive average data volume reduction of 70.38% and maintained data accuracy with a minimal error of only 0.74% in reconstruction.
 - Designed and developed MetricsBuilder, a data access accelerator. MetricsBuilder dramatically improved query performance by up to f25X and reduced data transmission volume by 95% compared to traditional SQL queries, streamlining data retrieval.
 - Implemented an API using the OpenAPI specification. The API provided efficient data access services to data analysis consumers, including JavaScript data visualization applications and Grafana, ensuring seamless access to valuable insights.
 
-
+<span class="info" style="color: gray; font-size: 0.8rem;">Updated 2023-10-17</span>
 <!-- Detail checks: 1. No period for each bullet; 2. Past tense for previous work; 3. Present tense for current work; 4. Spell check passed; 5. Grammarly check passed; 6. Sync with Linkedin; 7. Check paper format -->
