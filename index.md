@@ -2,12 +2,16 @@
 layout: cv
 title: Jie Li's CV
 ---
-# Jie Li
-Ph.D. Candidate in Computer Science, Texas Tech University.
+<!-- # Jie Li
+Ph.D. Candidate in Computer Science, Texas Tech University. -->
 
-<div id="webaddress">
+<span class="name">Jie Li</span>
+
+<span class="info">
+
 <a href="jie.li@ttu.edu">Email: jie[dot]li[at]ttu[dot]edu</a>
-</div>
+
+</span>
 
 ## RESEARCH INTERESTS
 
@@ -15,102 +19,63 @@ My research interests lie in the field of High-Performance Computing (HPC), enco
 
 ## Education
 
-### University of Washington | <location> Seattle, WA, USA </location> <time> Sep 2019 – Present </time>
+### Texas Tech University | <location> Lubbock, Texas </location> <time> Expected May 2024 </time>
 
-- B.S. in Chemical Engineering, Nanoscience and Molecular Engineering Option, with Departmental Honors
-- Minor in Applied Mathematics and Chemistry
-- GPA: 3.97 | Expected Graduation: June 2023
-- Mary Gates Research Scholarship | 2 Dan Evans Term Scholarships | C-HACK Team 1st, 3rd Places
+- Ph.D. in Computer Science
 
-### Brown University | <location> Providence, RI, USA </location> <time> Jun 2018 – Aug 2018 </time>
+### Texas Tech University | <location> Lubbock, Texas </location> <time> 2019 </time>
 
-- Pre-Baccalaureate Program: Neuroscience, Cell and Molecular Biology
+- M.S. in Computer Science
 
-### Kinglee High School | <location> Zhengzhou, Henan, China </location> <time> Sep 2013 – Jun 2019 </time>
+### Huaqiao University | <location> Xiamen, China </location> <time> 2012 </time>
 
-- Discovery Fair 1st Place | Science Fair 1st, 2nd Places | 2 Peer Tutor Awards | Merit Student of Zhengzhou
+- B.Arch. in Architecture
 
-## Relevant Experience
+## PROFESSIONAL EXPERIENCE
 
-### Undergraduate Research Assistant <time> Nov 2020 – Present </time>
+### Research Assistant <time> 2019 – Present </time>
 
-<location> Department of Chemical Engineering, University of Washington, PI: Elizabeth Nance </location>
+<location> Data-Intensive Scalable Computing Laboratory (DISCL), TTU, Lubbock, Texas </location>
 
-- Quantified microglia morphology of 3 datasets using image processing and machine learning methods
-- Developed Python API for data analysis for modular integration to fluorescent image analysis workflow
-- Scanned 102 murine breast cancer tissue slices using confocal microscope (24.5 hr) for collaborators
-- Surveyed literature regarding cell segmentation, morphological analysis, and image-based profiling
+- Research and Publication: Conducted innovative research in High-Performance Computing, Computer Architecture, and Parallel and Distributed Computing. Authored and published research papers in reputable academic conferences and journals.
+- Professional Development and Networking: Actively engaged in the academic community by attending conferences, workshops, and seminars. Presented research papers and posters at these events.
+- Mentorship and Education: Mentored both graduate and undergraduate students in their independent research studies. Provided guidance on research topics, project development, and data analysis.
+- Software Development and Collaboration: Played an integral role in developing and maintaining research software and tools. Wrote, tested, and documented code for various projects. Contributed to open-source software initiatives, fostering collaborative innovation.
+- Server Administration: Managed two high-end servers (Hugo and Alita) hosted at the High-Performance Computing Center. Oversaw server configuration, maintenance, and software management. Ensured consistent server availability and reliability while troubleshooting issues as they arose.
+- 
+### Graduate Student Intern <time> 2021-2023 [Summer] </time>
 
-### Summer Undergraduate Research Scholar <time> Jun 2022 - Aug 2022 </time>
+<location> Lawrence Berkeley National Laboratory (LBNL), Berkeley, California </location>
 
-<location> STROBE NSF Science and Technology Center on Real-Time Functional Imaging <br/> Department of Physics, Florida International University, PI: Jin He </location>
+- Data Integration and Analysis: Integrated HPC monitoring data from diverse sources (LDMS, DCGM, Slurm, VictoriaMetrics) for comprehensive analysis of system-wide architectural efficiency, including CPU, GPU, DRAM, and HBM2 resource utilization. Identified critical trends and patterns within the data to drive insights into system performance, with a focus on NERSC's Cori and Perlmutter.
+- Machine Learning Expertise: Conducted in-depth statistical analysis of job-level monitoring data. Applied a variety of machine learning models, including SVC, LinearSVC, Decision Tree, and Random Forests, to analyze jobs based on time-series features.
+- Innovative Data Processing: Pioneered a novel approach by encoding time-series monitoring data as images. Achieved high accuracy through the training of a Convolutional Neural Network (CNN) to classify and predict job applications.
+- Simulation and System Design: Designed and implemented a discrete event simulator to study resource management and job scheduling in HPC systems, with a specific focus on systems with disaggregated memory resources.
+  
+### Graduate Student Programmer <time> 2018 – 2019 </time>
 
-- Fabricated and functionalized gold nanorods for promoting maturation of engineered cardiac tissues
-- Characterized gold nanorods using UV-visible spectroscopy and Raman spectroscopy
-- Measured contractile force of cardiac tissues by analyzing brightfield microscopy video data with Python
-- Processed confocal microscopy images of T-tubular systems of cardiomyocytes with Python
+<location> Teaching, Learning and Professional Development Center (TLPDC),TTU, Lubbock, Texas </location>
 
-### Calculus Teaching Assistant <time> Sep 2018 – May 2019 </time>
+- Website Maintenance and Communication: Maintained and updated TLPDC web pages, ensuring a fresh and relevant online presence. Facilitated communication with software application providers to meet product requirements efficiently. 
+- Database Management and Security: Managed the MySQL database with precision, safeguarding valuable data assets. Implemented robust backup strategies to protect against data loss. Proactively addressed and resolved database access issues to maintain uninterrupted operations.
+ 
 
-<location> Kinglee High School </location>
+## SELECTED PROJECTS
 
-- Gave AP Calculus AB lectures 4 hours weekly to 5 students in alignment with CollegeBoard curriculum
-- Clarified complex concepts and common confusions about calculus with classroom activities
-- Worked with supervisor to design and grade concept checks, homework, and quizzes with tight deadlines
+### High-Performance Computing System Health Monitoring & Performance Data Collection <time> 2021 </time>
 
-## Other Experience
+- Explored mechanisms to acquire health status monitoring data from an HPC cluster via the Integrated Dell Remote Access Controller (iDRAC), enhancing cluster management and efficiency.
+- Spearheaded the development of a suite of tools for automating iDRAC telemetry report configuration, metric analysis, and TimescaleDB table initialization. Efficiently handled diverse data sources and types, streamlining data processing and analysis. 
+- Designed and implemented a robust system monitoring infrastructure capable of asynchronous collection of health status data through the Redfish API and job accounting data via the Slurm REST API.
+- The Slurm data collection code has been adopted and merged into Dell's Omnia project for broader industry utilization (Github link: [Omnia](https://github.com/dell/omnia)).
 
-### Webmaster <time> Apr 2022 – Present </time>
 
-<location> American Institute of Chemical Engineers (AIChE), University of Washington </location>
+### MonitoringD ata Management and Query Performance Optimization <time> 2020 </time>
 
-- Managed and designed official website; monitored and updated social media accounts and email list
-- Coordinated with internal and external media efforts to ensure up-to-date online presence
-- Facilitated coordination of ChemE BBQ event and graduation ceremony
+- Investigated and identified performance bottlenecks in InfluxDB. Optimized the database schema design, resulting in a remarkable 71.98% reduction in data volume and a significant 1.76X boost in query performance, enhancing data management efficiency.
+- Designed and implemented a time series deduplication mechanism. It achieved an impressive average data volume reduction of 70.38% and maintained data accuracy with a minimal error of only 0.74% in reconstruction.
+- Designed and developed MetricsBuilder, a data access accelerator. MetricsBuilder dramatically improved query performance by up to f25X and reduced data transmission volume by 95% compared to traditional SQL queries, streamlining data retrieval.
+- Implemented an API using the OpenAPI specification. The API provided efficient data access services to data analysis consumers, including JavaScript data visualization applications and Grafana, ensuring seamless access to valuable insights.
 
-### Secretary <time> May 2021 – Present </time>
-
-<location> Women in Chemical Engineering, University of Washington </location>
-
-- Kept transparent meeting records, managed member email list, and maintained student group registration
-- Composed biweekly newsletters to 400+ members to update events, resources, and diversity highlights
-- Facilitated coordination of Veteran's Day event, Wiki-edit-a-thon, and International Women's Day event
-
-### Research and Development Officer <time> Apr 2020 – Jun 2021 </time>
-
-<location> Chinese Students and Scholars Association, University of Washington </location>
-
-- Designed, crafted, and edited posters and videos for major events, such as Student Orientation Programs
-- Assisted in maintenance of official blog and website to provide resources based on students' need
-
-### Maple Hall Council SEED Representative <time> Oct 2019 – Mar 2020 </time>
-
-<location> Housing and Food Services, University of Washington </location>
-
-- Led committee meetings and planned campus-wide competition that raised waste sorting awareness
-- Attended weekly hall council and SEED meetings to liaise feedback and updates on activities and initiatives
-
-### Peer Tutor of Math, Science, and English <time> Sep 2016 – Jun 2019 </time>
-
-<location> Kinglee High School </location>
-
-- Taught active reading and note-taking strategies to English as a second language (ESL) students
-- Reviewed course notes, clarified complex concepts, and provided feedback for course assignments
-- Received 2 Peer Tutor Awards in recognition of outstanding contribution to the peer tutoring program
-
-### Student Council Historian and Secretary <time> Oct 2017 – Jun 2019 </time>
-
-<location> Kinglee High School </location>
-
-- Prepared, coordinated, and executed activities, including Halloween activities, Thanksgiving Bonfire Nights, Christmas celebrations, Spirit Weeks, and Academic Integrity Seminar
-- Drafted, edited, and updated activity proposals and meeting minutes for iterative improvement of execution
-- Raised 1000+ CNY funds and 200+ books for children in need with fundraising events
-
-### Lab Peer Supervisor <time> Mar 2017 – Mar 2019 </time>
-
-<location> Kinglee High School </location>
-
-- Supervised biology, chemistry, and physics lab practices of 9th-grade students for Zhongzhao Examination
-- Taught lab safety guidelines, standard lab procedures, and best practices, as well as ensured lab safety
 
 <!-- Detail checks: 1. No period for each bullet; 2. Past tense for previous work; 3. Present tense for current work; 4. Spell check passed; 5. Grammarly check passed; 6. Sync with Linkedin; 7. Check paper format -->
