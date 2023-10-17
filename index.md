@@ -75,7 +75,7 @@ My research interests lie in the field of High-Performance Computing (HPC), enco
 
 ## PUBLICATIONS
 
-{% include ../publications/publications.html %}
+{% include publications.html %}
 
 <div id="refs" class="references csl-bib-body" role="doc-bibliography">
 <div id="ref-wang2019mac" class="csl-entry" role="doc-biblioentry">
