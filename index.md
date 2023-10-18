@@ -8,7 +8,7 @@ title: Jie Li's CV
 
 <span class="info">Email: [jie[dot]li[at]ttu[dot]edu](mailto:jie.li@ttu.edu)</span>
 
-<span class="info">Homepage: <a href="https://lijie.me">https://lijie.me</a></span>
+<span id="homepage" class="info">Homepage: <a href="https://lijie.me">https://lijie.me</a></span>
 
 
 ## RESEARCH INTERESTS
