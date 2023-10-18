@@ -107,6 +107,6 @@ field {
 }
 
 .csl-entry {
-  display: inline-block;
+  display: flex;
   flex-direction: row;
 }
