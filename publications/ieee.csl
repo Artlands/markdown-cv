@@ -310,6 +310,7 @@
   <citation collapse="citation-number">
     <sort>
       <key macro="issued" sort="descending"/>
+      <key macro="author"/>
     </sort>
     <layout delimiter=", ">
       <group prefix="[" suffix="]" delimiter=", ">
