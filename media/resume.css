@@ -78,7 +78,7 @@ li {
 }
 
 a {
-  color: #0D47A1;
+  color: #1565c0;
 }
 
 code {
@@ -121,5 +121,5 @@ field {
 }
 
 #update {
-  margin-top: 5rem;
+  padding: 4rem 0 1rem 0;
 }
