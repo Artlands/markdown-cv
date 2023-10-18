@@ -111,6 +111,10 @@ field {
   flex-direction: row;
 }
 
+.csl-left-margin {
+  margin-right: 5px;
+}
+
 #refs {
   display: flex;
   flex-direction: column-reverse;
