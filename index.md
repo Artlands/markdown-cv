@@ -136,5 +136,4 @@ My research interests lie in the field of High-Performance Computing (HPC), enco
 - Best Poster Award, <location>NSF Cloud and Autonomic Computing Industry Advisory Board Conference</location> <time>2022</time>
 - Summer Thesis/Dissertation Research Award ($2300), <location>Lubbock, Texas</location> <time>2019</time>
 
-<span class="info" style="color: gray; font-size: 0.8rem;">Last Update: October 17, 2023</span>
-<!-- Detail checks: 1. No period for each bullet; 2. Past tense for previous work; 3. Present tense for current work; 4. Spell check passed; 5. Grammarly check passed; 6. Sync with Linkedin; 7. Check paper format -->
+<span id="update" class="info" style="color: gray; font-size: 0.8rem;">Last Update: October 17, 2023</span>

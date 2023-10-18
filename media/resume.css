@@ -32,8 +32,8 @@ h2 {
   font-size: 1.2em;
   font-weight: bold;
   border-bottom: 1px solid black;
-  color: #0D47A1;
-  margin: 10px 0 5px 0;
+  color: #1565c0;
+  margin: 15px 0 5px 0;
   padding: 0 0 2px 0;
 }
 
@@ -118,4 +118,8 @@ field {
 #refs {
   display: flex;
   flex-direction: column-reverse;
+}
+
+#update {
+  margin-top: 5rem;
 }
