@@ -55,6 +55,14 @@ My research interests lie in the field of High-Performance Computing (HPC), enco
 
 ## SELECTED PROJECTS
 
+### Scheduling and Allocation of Disaggregated Memory Resources in HPC Systems <time> 2023 </time>
+
+- Designed and implemented a discrete event simulator based on *Simpy* to study resource management and job scheduling in HPC systems with disaggregated memory resources. Customizable to various system configurations and scheduling policies.
+- Devised a performance degradation model based on prior studies to estimate job runtimes when accessing remote memory resources.
+- Proposed the innovative *FM* job scheduling policy, tailored for disaggregated memory systems, yielding superior system throughput and bounded slowdown compared to state-of-the-art policies.
+- Simulated the *FM* scheduler in a system with *one-fourth* of the original local memory. The experimental results shown that it boosts average memory utilization **from 27.97% to 79.24%**, with only a marginal **5.52%** reduction in average job performance.
+
+
 ### High-Performance Computing System Health Monitoring & Performance Data Collection <time> 2021 </time>
 
 - Explored mechanisms to acquire health status monitoring data from an HPC cluster via the Integrated Dell Remote Access Controller (iDRAC), enhancing cluster management and efficiency.
@@ -65,9 +73,9 @@ My research interests lie in the field of High-Performance Computing (HPC), enco
 
 ### Monitoring Data Management and Query Performance Optimization <time> 2020 </time>
 
-- Investigated and identified performance bottlenecks in InfluxDB. Optimized the database schema design, resulting in a remarkable 71.98% reduction in data volume and a significant 1.76X boost in query performance, enhancing data management efficiency.
-- Designed and implemented a time series deduplication mechanism. It achieved an impressive average data volume reduction of 70.38% and maintained data accuracy with a minimal error of only 0.74% in reconstruction.
-- Designed and developed MetricsBuilder, a data access accelerator. MetricsBuilder dramatically improved query performance by up to 25X and reduced data transmission volume by 95% compared to traditional SQL queries, streamlining data retrieval.
+- Investigated and identified performance bottlenecks in InfluxDB. Optimized the database schema design, resulting in a remarkable **71.98%** reduction in data volume and a significant **1.76X** boost in query performance, enhancing data management efficiency.
+- Designed and implemented a time series deduplication mechanism. It achieved an impressive average data volume reduction of **70.38%** and maintained data accuracy with a minimal error of only **0.74%** in reconstruction.
+- Designed and developed MetricsBuilder, a data access accelerator. MetricsBuilder dramatically improved query performance by up to **25X** and reduced data transmission volume by **95%** compared to traditional SQL queries, streamlining data retrieval.
 - Implemented an API using the OpenAPI specification. The API provided efficient data access services to data analysis consumers, including JavaScript data visualization applications and Grafana, ensuring seamless access to valuable insights.
 
 ## PAPERS UNDER REVIEW/PREPRINTS
