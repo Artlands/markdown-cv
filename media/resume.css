@@ -110,7 +110,7 @@ field {
 .csl-entry {
   display: flex;
   flex-direction: row;
-  line-height: 120%;
+  padding: 0 0 0.5rem 0;
 }
 
 .csl-left-margin {
