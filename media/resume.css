@@ -110,11 +110,11 @@ field {
 .csl-entry {
   display: flex;
   flex-direction: row;
+  line-height: 120%;
 }
 
 .csl-left-margin {
   margin-right: 5px;
-  line-height: 120%;
 }
 
 #refs {
