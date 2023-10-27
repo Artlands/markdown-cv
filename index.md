@@ -74,7 +74,7 @@ My research interests lie in the field of High-Performance Computing (HPC), enco
 <div id="ref-disagmem" class="csl-entry" role="doc-biblioentry">
 <div class="csl-left-margin">[3] </div><div class="csl-right-inline"><strong>J. Li</strong> <em>et al.</em>,
 <span>“Scheduling and Allocation of Disaggregated Memory Resources in HPC Systems,”</span> submitted to <em>38th IEEE International Parallel &
-Distributed Processing Symposium(<strong>IPDPS 2024</strong>)</em></div>
+Distributed Processing Symposium (<strong>IPDPS 2024</strong>)</em></div>
 </div>
 
 <div id="ref-xbgassim" class="csl-entry" role="doc-biblioentry">
