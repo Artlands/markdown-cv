@@ -70,7 +70,29 @@ My research interests lie in the field of High-Performance Computing (HPC), enco
 - Designed and developed MetricsBuilder, a data access accelerator. MetricsBuilder dramatically improved query performance by up to 25X and reduced data transmission volume by 95% compared to traditional SQL queries, streamlining data retrieval.
 - Implemented an API using the OpenAPI specification. The API provided efficient data access services to data analysis consumers, including JavaScript data visualization applications and Grafana, ensuring seamless access to valuable insights.
 
-## PUBLICATIONS
+## PAPERS UNDER REVIEW/PREPRINTS
+<div id="ref-disagmem" class="csl-entry" role="doc-biblioentry">
+<div class="csl-left-margin">[3] </div><div class="csl-right-inline"><strong>J. Li</strong> <em>et al.</em>,
+<span>“Scheduling and Allocation of Disaggregated Memory Resources in HPC Systems,”</span> submitted to <em>38th IEEE International Parallel &
+Distributed Processing Symposium(<strong>IPDPS 2024</strong>)</em></div>
+</div>
+
+<div id="ref-xbgassim" class="csl-entry" role="doc-biblioentry">
+<div class="csl-left-margin">[2] </div><div
+class="csl-right-inline"><strong>J. Li</strong> <em>et al.</em>,
+<span>“Towards Cycle-accurate Simulation of xBGAS,”</span> submitted to <em>2024 International Conference on Computing, Networking and Communications (<strong>ICNC 2024</strong>)</em></div>
+</div>
+
+<div id="ref-li2023arcode" class="csl-entry" role="doc-biblioentry">
+<div class="csl-left-margin">[1] </div><div
+class="csl-right-inline"><strong>J. Li</strong>, B. Cook, and Y. Chen,
+<span>“ARcode: HPC application recognition through image-encoded
+monitoring data,”</span> <em>arXiv preprint arXiv:2301.08612</em>, 2023,
+doi: <a href="https://doi.org/10.48550/arXiv.2301.08612">https://doi.org/10.48550/arXiv.2301.08612</a>.</div>
+</div>
+
+
+## PEER-REVIEWED PUBLICATIONS
 
 {% include publications.html %}
 
