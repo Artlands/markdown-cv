@@ -55,6 +55,12 @@ My research interests lie in the field of High-Performance Computing (HPC), enco
 
 ## SELECTED PROJECTS
 
+### Towards Cycle-accurate Simulation of xBGAS (On-going) <time> 2023 </time>
+
+- Implemented cycle-based simulation of the Extended Base Global Address Space (xBGAS), an Instruction Set Architecture (ISA) extension on the RISC-V architecture, based on the SST _REV_ RISC-V CPU model.
+- Proposed optimizations on the xBGAS _bulk_ integer load/store instructions that are encoded with the RISC-V _R-4 type_ to reduce the number of instructions.
+- Adapted xBGAS runtime library to the SST REV simulation infrastructure, configured and simulated xBGAS distributed systems with diverse network topologies and varying processing element counts. Conducted performance evaluations through micro-benchmarks.
+
 ### Scheduling and Allocation of Disaggregated Memory Resources in HPC Systems <time> 2023 </time>
 
 - Designed and implemented a discrete event simulator based on *Simpy* to study resource management and job scheduling in HPC systems with disaggregated memory resources. Customizable to various system configurations and scheduling policies.
@@ -77,6 +83,13 @@ My research interests lie in the field of High-Performance Computing (HPC), enco
 - Designed and implemented a time series deduplication mechanism. It achieved an impressive average data volume reduction of **70.38%** and maintained data accuracy with a minimal error of only **0.74%** in reconstruction.
 - Designed and developed MetricsBuilder, a data access accelerator. MetricsBuilder dramatically improved query performance by up to **25X** and reduced data transmission volume by **95%** compared to traditional SQL queries, streamlining data retrieval.
 - Implemented an API using the OpenAPI specification. The API provided efficient data access services to data analysis consumers, including JavaScript data visualization applications and Grafana, ensuring seamless access to valuable insights.
+
+### Processing-in-memory Acceleration for Stencil Computations <time> 2019 </time>
+
+- Innovated PIMS (Processing-In-Memory for Stencil Computations), an efficient in-memory accelerator designed to enhance the performance of stencil computations.
+- Designed PIMS to seamlessly identify offloading targets without additional programming effort, employing _PIMload&add_ instructions to offload data-heavy operations to memory. Leveraged the logic die of HMC devices to create essential components like a request/response dispatcher, PIMS cache, operand buffer, and response builder, enabling stencil kernels acceleration.
+- Devised a memory-side PIMS cache that sustains a constant number of bank conflicts, irrespective of the increasing order of stencil computations, a departure from conventional non-accelerated methods.
+- Demonstrated PIMS's efficacy in reducing redundant memory traffic by up to **72.57%** for large stencil grids surpassing the host processor cache size, while also trimming bandwidth utilization by up to **39.77%** for high-order stencils.
 
 ## PAPERS UNDER REVIEW/PREPRINTS
 <div id="ref-disagmem" class="csl-entry" role="doc-biblioentry">
