@@ -164,4 +164,4 @@ doi: <a href="https://doi.org/10.48550/arXiv.2301.08612">https://doi.org/10.4855
 - Best Poster Award, <location>NSF Cloud and Autonomic Computing Industry Advisory Board Conference</location> <time>2022</time>
 - Summer Thesis/Dissertation Research Award ($2300), <location>Lubbock, Texas</location> <time>2019</time>
 
-<span id="update" class="info" style="color: gray; font-size: 0.8rem;">Last Update: October 17, 2023</span>
+<span id="update" class="info" style="color: gray; font-size: 0.8rem;">Last Update: November 3, 2023</span>
