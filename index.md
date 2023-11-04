@@ -13,10 +13,10 @@ title: Jie Li's CV
 
 ## EDUCATION
 
-### Doctor of Philosophy <field> Computer Science, </field> <location> Texas Tech University, Lubbock, Texas </location> <time> Expected May 2024 </time>
+### Doctor of Philosophy, <field> Computer Science, </field> <location> Texas Tech University, Lubbock, Texas </location> <time> Expected May 2024 </time>
 - Dissertation: _Data Collection, Management and Automation of High-performance Computing Systems_
 
-### Master of Science <field> Computer Science, </field> <location> Texas Tech University, Lubbock, Texas </location> <time> 2019 </time>
+### Master of Science, <field> Computer Science, </field> <location> Texas Tech University, Lubbock, Texas </location> <time> 2019 </time>
 - Thesis: _PIMS: A Lightweight Processing-in-Memory Accelerator for Stencil Computations_
 - Summer Thesis/Dissertation Research Award ($2300)
 
