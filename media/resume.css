@@ -89,7 +89,7 @@ code {
 time {
   float: right;
   font-size: inherit;
-  font-weight: bold;
+  /* font-weight: bold; */
 }
 
 location {

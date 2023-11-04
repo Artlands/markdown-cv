@@ -13,10 +13,10 @@ title: Jie Li's CV
 
 ## EDUCATION
 
-### Ph.D. <field> Computer Science, </field> <location> Texas Tech University, Lubbock, Texas </location> <time> Expected May 2024 </time>
+### Doctor of Philosophy <field> Computer Science, </field> <location> Texas Tech University, Lubbock, Texas </location> <time> Expected May 2024 </time>
 - Dissertation: _Data Collection, Management and Automation of High-performance Computing Systems_
 
-### M.S. <field> Computer Science, </field> <location> Texas Tech University, Lubbock, Texas </location> <time> 2019 </time>
+### Master of Science <field> Computer Science, </field> <location> Texas Tech University, Lubbock, Texas </location> <time> 2019 </time>
 - Thesis: _PIMS: A Lightweight Processing-in-Memory Accelerator for Stencil Computations_
 - Summer Thesis/Dissertation Research Award ($2300)
 
@@ -122,7 +122,7 @@ doi: <a href="https://doi.org/10.48550/arXiv.2301.08612">https://doi.org/10.4855
 - A Holistic View of Resource Utilization on Perlmutter <time> Aug. 2022 </time>
 - SST and Cycle-accurate Simulation of xBGAS <time> May 2022 </time>
 - Lightweight Checkpointing of Loop-Based Kernels Using Disaggregated Memory <time> Feb. 2022 </time>
-- Deep Learning and Monitoring Metrics to Image Encoding for Detecting Applications in HPC systems <time> Nov. 2021 </time>
+- DL and Monitoring Metrics to Image Encoding for Detecting Applications in HPC systems <time> Nov. 2021 </time>
 - Detecting and Identifying Applications by Job Signatures <time> Sept. 2021 </time>
 - Predicting Abnormal Workloads in HPC Systems <time> May 2021 </time>
 - The IEEE Cluster2020 Experience, MonSTer Review and Future Work <time> Sept. 2020 </time>
@@ -167,4 +167,4 @@ doi: <a href="https://doi.org/10.48550/arXiv.2301.08612">https://doi.org/10.4855
 - Best Poster Award, <location>NSF Cloud and Autonomic Computing Industry Advisory Board Conference</location> <time>2022</time>
 - Summer Thesis/Dissertation Research Award ($2300), <location>Lubbock, Texas</location> <time>2019</time> -->
 
-<span id="update" class="info" style="color: gray; font-size: 0.8rem;">Last Update: November 3, 2023</span>
+<span id="update" class="info" style="color: gray; font-size: 0.8rem;">Last Update: November 4, 2023</span>
