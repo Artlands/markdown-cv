@@ -13,8 +13,8 @@ title: Jie Li's CV
 
 ## EDUCATION
 
-### Doctor of Philosophy, <field> Computer Science, </field> <location> Texas Tech University, Lubbock, Texas </location> <time> Expected May 2024 </time>
-- Dissertation: _Data Collection, Management and Automation of High-performance Computing Systems_
+### Doctor of Philosophy, <field> Computer Science, </field> <location> Texas Tech University, Lubbock, Texas </location> <time> May 2024 </time>
+- Dissertation: _Optimizing High-Performance Computing Systems: Insights from System Monitoring, Workload Management, and Scheduling Strategies_
 
 ### Master of Science, <field> Computer Science, </field> <location> Texas Tech University, Lubbock, Texas </location> <time> 2019 </time>
 - Thesis: _PIMS: A Lightweight Processing-in-Memory Accelerator for Stencil Computations_
@@ -79,7 +79,7 @@ My research interests lie in the field of High-Performance Computing (HPC), enco
 - Designed and implemented a robust system monitoring infrastructure capable of asynchronous collection of health status data through the Redfish API and job accounting data via the Slurm REST API.
 - The Slurm data collection code has been adopted and merged into Dell's Omnia project for broader industry utilization (Github link: [Omnia](https://github.com/dell/omnia)).
 
-## PAPERS UNDER REVIEW/PREPRINTS
+<!-- ## PAPERS UNDER REVIEW/PREPRINTS
 <div id="ref-disagmem" class="csl-entry" role="doc-biblioentry">
 <div class="csl-left-margin">[3] </div><div class="csl-right-inline"><strong>J. Li</strong> <em>et al.</em>,
 <span>“Scheduling and Allocation of Disaggregated Memory Resources in HPC Systems,”</span> submitted to <em>38th IEEE International Parallel &
@@ -98,7 +98,7 @@ class="csl-right-inline"><strong>J. Li</strong>, B. Cook, and Y. Chen,
 <span>“ARcode: HPC application recognition through image-encoded
 monitoring data,”</span> <em>arXiv preprint arXiv:2301.08612</em>, 2023,
 doi: <a href="https://doi.org/10.48550/arXiv.2301.08612">https://doi.org/10.48550/arXiv.2301.08612</a>.</div>
-</div>
+</div> -->
 
 
 ## PEER-REVIEWED PUBLICATIONS
@@ -164,4 +164,4 @@ doi: <a href="https://doi.org/10.48550/arXiv.2301.08612">https://doi.org/10.4855
 - Best Poster Award, <location>NSF Cloud and Autonomic Computing Industry Advisory Board Conference</location> <time>2022</time>
 - Summer Thesis/Dissertation Research Award ($2300), <location>Lubbock, Texas</location> <time>2019</time> -->
 
-<span id="update" class="info" style="color: gray; font-size: 0.8rem;">Last Update: November 4, 2023</span>
+<span id="update" class="info" style="color: gray; font-size: 0.8rem;">Last Update: Jan 13, 2025</span>
