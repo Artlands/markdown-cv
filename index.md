@@ -27,7 +27,7 @@ My research focuses on high-performance computing (HPC), parallel and distribute
 
 ## PROFESSIONAL EXPERIENCE
 
-### Research Assistant <time> 2019 – Present </time>
+### Research Assistant <time> 2019 – 2024 </time>
 
 <location> Data-Intensive Scalable Computing Laboratory (DISCL), TTU, Lubbock, Texas </location>
 
