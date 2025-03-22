@@ -18,14 +18,12 @@ title: Jie Li's CV
 
 ### Master of Science, <field> Computer Science, </field> <location> Texas Tech University, Lubbock, Texas </location> <time> 2019 </time>
 - Thesis: _PIMS: A Lightweight Processing-in-Memory Accelerator for Stencil Computations_
-- Summer Thesis/Dissertation Research Award ($2300)
 
 <!-- ### B.Arch. <field> Architecture, </field> <location> Huaqiao University, Xiamen, China </location> <time> 2012 </time> -->
 
 ## RESEARCH INTERESTS
 
-My research interests lie in the field of High-Performance Computing (HPC), encompassing HPC systems monitoring, automation, and management, operational data analytics, job scheduling, and system architecture. I also have a keen interest in parallel and distributed computing and computer architecture.
-
+My research focuses on high-performance computing (HPC), parallel and distributed computing, and computer architecture. The goal of my research is to develop efficient and scalable computing systems that power AI, big data analytics, and scientific computing. My specific interests include resource management and scheduling in HPC systems, with a focus on disaggregated memory architectures, system-level performance monitoring, operational data analysis, machine learning-based system management, and hardware/software co-design for next-generation HPC platforms.
 
 ## PROFESSIONAL EXPERIENCE
 
@@ -160,8 +158,8 @@ doi: <a href="https://doi.org/10.48550/arXiv.2301.08612">https://doi.org/10.4855
 - Student volunteer of SC’19, <location>Denver, Colorado</location>  <time> 2019 </time>
 - Volunteer of Paul’s Project, <location>Grace Campus, Lubbock, Texas</location>  <time> 2019 </time>
 
-<!-- ## HONORS AND AWARDS
+## HONORS AND AWARDS
 - Best Poster Award, <location>NSF Cloud and Autonomic Computing Industry Advisory Board Conference</location> <time>2022</time>
-- Summer Thesis/Dissertation Research Award ($2300), <location>Lubbock, Texas</location> <time>2019</time> -->
+- Summer Thesis/Dissertation Research Award ($2300), <location>Lubbock, Texas</location> <time>2019</time>
 
 <span id="update" class="info" style="color: gray; font-size: 0.8rem;">Last Update: Jan 13, 2025</span>
