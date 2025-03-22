@@ -4,7 +4,7 @@ title: Jie Li's CV
 ---
 <span class="name">Jie Li</span>
 
-<span class="info">Research Assistant, Department of Computer Science, Texas Tech University</span>
+<span class="info">Postdoctoral Researcher, Department of Computer Science, Texas Tech University</span>
 
 <span class="info">Email: [jie[dot]li[at]ttu[dot]edu](mailto:jie.li@ttu.edu)</span>
 
